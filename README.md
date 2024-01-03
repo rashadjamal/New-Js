@@ -1,0 +1,2 @@
+# New-Js
+JavaScript Code
